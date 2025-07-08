@@ -31,5 +31,6 @@ This interactive dashboard project explores Airbnb listing data, providing insig
 
 ---
 
-![Dashboard Screenshot](Dashboard%20Screenshot.png)
+![Dashboard Screenshot](![Screenshot 2025-07-09 000025](https://github.com/user-attachments/assets/ac14237b-a2a5-416c-9fb4-26d16024fb79)
+)
 
